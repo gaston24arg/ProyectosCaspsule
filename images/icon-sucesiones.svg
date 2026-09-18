@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#d4af37" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Cabeza cilíndrica del mazo en diagonal -->
+  <!-- Extremo superior izquierdo -->
+  <ellipse cx="26" cy="18" rx="5" ry="8" transform="rotate(45 26 18)"/>
+  <!-- Cuerpo del mazo -->
+  <line x1="23" y1="12" x2="41" y2="30"/>
+  <line x1="29" y1="24" x2="47" y2="42"/>
+  <!-- Anillo central decorativo -->
+  <line x1="30" y1="19" x2="38" y2="27"/>
+  <line x1="33" y1="22" x2="41" y2="30"/>
+  <!-- Extremo inferior derecho -->
+  <ellipse cx="44" cy="36" rx="5" ry="8" transform="rotate(45 44 36)"/>
+
+  <!-- Mango del mazo saliendo hacia abajo-izquierda -->
+  <line x1="32" y1="29" x2="14" y2="47" stroke-width="2.6"/>
+  <line x1="14" y1="47" x2="10" y2="51" stroke-width="3.2"/>
+  <circle cx="9" cy="52" r="2" fill="#d4af37"/>
+
+  <!-- Base o bloque de sonido (Sound block) debajo -->
+  <path d="M40 54 L56 46 L60 48 L44 56 Z"/>
+  <line x1="40" y1="54" x2="40" y2="57"/>
+  <line x1="44" y1="56" x2="44" y2="59"/>
+  <line x1="60" y1="48" x2="60" y2="51"/>
+  <path d="M40 57 L44 59 L60 51"/>
+</svg>

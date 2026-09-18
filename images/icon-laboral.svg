@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#d4af37" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Mano Izquierda -->
+  <path d="M12 28 L24 20 L32 26 L22 36 Z"/>
+  <path d="M24 20 L27 16 C28 14 31 14 33 16 L35 18"/>
+  <path d="M12 28 L6 34 L14 42 L20 36"/>
+  <!-- Manga Izquierda -->
+  <path d="M6 34 L2 30 L8 24 L12 28"/>
+
+  <!-- Mano Derecha (Apretón entrelazado) -->
+  <path d="M52 28 L40 20 L32 26 L42 36 Z"/>
+  <path d="M40 20 L37 16 C36 14 33 14 31 16 L29 18"/>
+  <path d="M52 28 L58 34 L50 42 L44 36"/>
+  <!-- Manga Derecha -->
+  <path d="M58 34 L62 30 L56 24 L52 28"/>
+
+  <!-- Dedos entrelazados en el centro -->
+  <path d="M26 32 L34 40 L38 36 L30 28"/>
+  <path d="M30 36 L38 44 L42 40 L34 32"/>
+  <path d="M34 40 L41 47 L45 43 L38 36"/>
+</svg>

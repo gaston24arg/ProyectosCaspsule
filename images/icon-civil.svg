@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#d4af37" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Hoja de papel / Contrato -->
+  <path d="M16 10 L40 10 L50 20 L50 54 C50 56 48 58 46 58 L16 58 C14 58 12 56 12 54 L12 14 C12 12 14 10 16 10 Z"/>
+  <!-- Esquina doblada -->
+  <path d="M40 10 L40 20 L50 20"/>
+  
+  <!-- Líneas de texto del contrato -->
+  <line x1="20" y1="22" x2="34" y2="22"/>
+  <line x1="20" y1="28" x2="42" y2="28"/>
+  <line x1="20" y1="34" x2="42" y2="34"/>
+  <line x1="20" y1="40" x2="32" y2="40"/>
+
+  <!-- Firma manuscrita -->
+  <path d="M20 48 Q24 44 28 47 T36 46"/>
+
+  <!-- Pluma estilográfica / bolígrafo en diagonal a la derecha -->
+  <path d="M42 44 L54 32 C55 31 57 31 58 32 L59 33 C60 34 60 36 59 37 L47 49 L42 50 Z" stroke-width="1.8"/>
+  <line x1="45" y1="47" x2="42" y2="50"/>
+</svg>

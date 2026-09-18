@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" fill="none" stroke="#d4af37" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Columna central -->
+  <line x1="30" y1="8" x2="30" y2="52"/>
+  <circle cx="30" cy="8" r="3" fill="#d4af37"/>
+  <!-- Base de la balanza -->
+  <path d="M22 52 L38 52"/>
+  <!-- Barra transversal -->
+  <line x1="12" y1="18" x2="48" y2="18"/>
+  <circle cx="30" cy="18" r="2" fill="#d4af37"/>
+  <!-- Platillo izquierdo -->
+  <line x1="12" y1="18" x2="6" y2="34"/>
+  <line x1="12" y1="18" x2="18" y2="34"/>
+  <path d="M4 34 Q12 40 20 34 Z" fill="rgba(212,175,55,0.2)"/>
+  <!-- Platillo derecho -->
+  <line x1="48" y1="18" x2="42" y2="34"/>
+  <line x1="48" y1="18" x2="54" y2="34"/>
+  <path d="M40 34 Q48 40 56 34 Z" fill="rgba(212,175,55,0.2)"/>
+</svg>
