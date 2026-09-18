@@ -1,0 +1,15 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entornos y configuración de Antigravity / IDEs
+.vscode/
+.idea/
+*.log
+
+# Archivos de entorno y credenciales (si usas variables secretas)
+.env
+.env.local
+
+# Dependencias (si usas Node.js u otros gestores)
+node_modules/
